@@ -1,5 +1,5 @@
 # Bash-Scripts
-Serching Files Techniques 
+Searching Files Techniques 
 A script with the name searching which 
 (a) accepts as arguments two integers 
 (b) ask the user for the name of a directory;
